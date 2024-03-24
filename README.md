@@ -1,6 +1,6 @@
 # 👾 Hacking/Programming/Cybersecurity  👾 
 #### 🔒 Student of: Ethical Hacking and Cyber security in General 🔒
-
+<i>"Keep Learning, Keep Hacking"</i>
 * Conhecimentos em:      
   - 🔐 Cibersegurança 
   - 💉 Hacking
