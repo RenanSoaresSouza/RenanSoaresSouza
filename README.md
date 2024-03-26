@@ -1,5 +1,6 @@
 # 👾 Hacking/Programming/Cybersecurity  👾 
- <i>"Se você acha que a tecnologia pode resolver seus problemas de segurança.Então você não entende os Problemas, e não entende a tecnologia" -<b>Bruce Schneier</b></i>
+ <i>"Se você acha que a tecnologia pode resolver seus problemas de segurança. Então você não entende os Problemas, e não entende a tecnologia" 
+ -<b>Bruce Schneier</b></i>
 #### 🔒 Student of: Ethical Hacking and Cyber security in General 🔒
 * Conhecimentos em:      
   - 🔐 Cibersegurança 
