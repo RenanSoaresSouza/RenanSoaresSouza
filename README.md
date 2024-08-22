@@ -4,8 +4,8 @@
 #### 🔒 Student of: Programing and Cyber security in General 🔒
 * Conhecimentos em:      
   - 🔐 Cibersegurança 
-  - 💉 Hacking
   - 💻 Python
+  - 💻 Programação
   - 📕 Inglês Pré-Intermediário
 ### ✨ Habilidades e Conhecimentos:
 <div>
