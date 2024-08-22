@@ -1,11 +1,11 @@
-# 👾 Hacking/Programming/Cybersecurity  👾 
+# 👾 /Programming/Cybersecurity  👾 
  <i>"Se você acha que a tecnologia pode resolver seus problemas de segurança. Então você não entende os Problemas, e não entende a tecnologia" 
  -<b>Bruce Schneier</b></i>
-#### 🔒 Student of: Ethical Hacking and Cyber security in General 🔒
+#### 🔒 Student of: Programing and Cyber security in General 🔒
 * Conhecimentos em:      
   - 🔐 Cibersegurança 
   - 💉 Hacking
-  - 💻 Python em Cibersegurança
+  - 💻 Python
   - 📕 Inglês Pré-Intermediário
 ### ✨ Habilidades e Conhecimentos:
 <div>
