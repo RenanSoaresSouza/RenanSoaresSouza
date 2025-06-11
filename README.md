@@ -1,10 +1,6 @@
-# 👾 /Programming/Cybersecurity  👾 
- <i>"Se você acha que a tecnologia pode resolver seus problemas de segurança. Então você não entende os Problemas, e não entende a tecnologia" 
- -<b>Bruce Schneier</b></i>
-#### 🔒 Student of: Programing and Cyber security in General 🔒
+# 👾 Computing enginnering  👾 
+#### 🔒 Student of: computing enginnering 🔒
 * Conhecimentos em:      
-  - 🔐 Cibersegurança 
-  - 💻 Python
   - 💻 Programação
   - 📕 Inglês Pré-Intermediário
 ### ✨ Habilidades e Conhecimentos:
