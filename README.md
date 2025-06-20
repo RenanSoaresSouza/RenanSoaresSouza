@@ -1,4 +1,4 @@
-# 👾 Computing enginnering  👾 
+# 👾 Computer engineering  👾 
 #### 🔒 Student of: computing enginnering 🔒
 * Conhecimentos em:      
   - 💻 Programação
