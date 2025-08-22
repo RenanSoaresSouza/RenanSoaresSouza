@@ -2,7 +2,6 @@
 #### 🔒 Student of: computing enginnering 🔒
 * Conhecimentos em:      
   - 💻 Programação
-  - 
   - 📕 Inglês Pré-Intermediário
 ### ✨ Habilidades e Conhecimentos:
 <div>
