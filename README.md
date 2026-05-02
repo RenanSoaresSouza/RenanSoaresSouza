@@ -1,13 +1,11 @@
 # 👾 Computer engineering  👾 
-#### 🔒 Cybersecurity 🔒
+#### 🔒 Engenharia da Computação 🔒
 * Conhecimentos em:      
   - 💻 Programação e automação de scripts em Python
   - 🛜 Redes de Computadores
-  - 👨‍💻 Pentest & Red Team
-  - 🔒 Crypto & Hashes
-  - 🐞 Vulnerabilidades
+  - 👨‍💻 Sistemas Embarcados
+  - 🔒 Segurança da Informação
   - 📕 Inglês Pré-Intermediário
-  - 🔒🧱🛡️ Conhecimentos em Cybersegurança em geral
 ### ✨ Habilidades e Conhecimentos:
 <div>
   
