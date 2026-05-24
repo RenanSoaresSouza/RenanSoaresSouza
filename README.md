@@ -1,9 +1,16 @@
-# Quem Sou eu ?
-Olá, me chamo Renan Soares e sou apaixonado pela computação tenho curso técnico de Desenvolvimento de Sistemas e atualmente faço Engenharia da Computação no Instituto Federal do Ceará, sempre aprendendo cada cia mais e mais sobre a tecnologia e o hardware que nos circula diariamente
+# Renan Soares
+💻Técnico em Desenvolvimento de Sistemas  | 👨‍💻 Engenheiro da Computação em Formação | 👨‍🎓 Estudante
+
+## Sobre Mim
+
+- 🎯 Objetivo: Me tornar um Engenheiro da Computação
+- 🔎 Curioso
+- 👨‍🎓 autodidata
+
 ## Conhecimentos em:      
-  - 💻 Programação e automação de scripts em Python
+  - 💻 Programação 
   - 👨‍💻 Sistemas Embarcados
-  - 🔒 Segurança da Informação
+  - 🔌 eletrônica (Digital e Analógica)
   - 📕 Inglês Pré-Intermediário
 ### ✨ Habilidades e Conhecimentos:
 <div align="left">
