@@ -1,8 +1,7 @@
-# 👾 Computer engineering  👾 
-#### 🔒 Engenharia da Computação 🔒
-* Conhecimentos em:      
+# Quem Sou eu ?
+Olá, me chamo Renan Soares e sou apaixonado pela computação tenho curso técnico de Desenvolvimento de Sistemas e atualmente faço Engenharia da Computação no Instituto Federal do Ceará, sempre aprendendo cada cia mais e mais sobre a tecnologia e o hardware que nos circula diariamente
+## Conhecimentos em:      
   - 💻 Programação e automação de scripts em Python
-  - 🛜 Redes de Computadores
   - 👨‍💻 Sistemas Embarcados
   - 🔒 Segurança da Informação
   - 📕 Inglês Pré-Intermediário
@@ -24,5 +23,4 @@
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 </div>
 
-### 📱 Redes Sociais:
-<a href="https://www.linkedin.com/in/renan-soares-257475251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
