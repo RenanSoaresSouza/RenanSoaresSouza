@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Renan
+# 👋 Olá, me chamo Renan !
 💻Técnico em Desenvolvimento de Sistemas  | 👨‍💻 Engenheiro da Computação em Formação | 👨‍🎓 Estudante
 
 ## Sobre Mim
@@ -7,7 +7,6 @@
 - 🔎 Curioso
 - 👨‍🎓 autodidata
 - 🗺 Brasil 
-
 
 ---
 ## Conhecimentos em:      
