@@ -10,7 +10,8 @@
 
 ---
 ## Conhecimentos em:      
-  - 💻 Programação 
+  - 💻 Programação
+  - 🖥 Arquitetura de Computadores
   - 👨‍💻 Sistemas Embarcados
   - 🔌 eletrônica (Digital e Analógica)
   - 📕 Inglês Pré-Intermediário
