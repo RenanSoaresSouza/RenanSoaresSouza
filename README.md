@@ -20,7 +20,7 @@
 - 🔌 Sistemas Embarcados
 - ⚡ Eletrônica Digital e Analógica
 - 🧠 Hardware e Desenvolvimento de Baixo Nível
-- 📘 Inglês Pré-Intermediário
+- 📘 Inglês B1+
 
 ---
 
