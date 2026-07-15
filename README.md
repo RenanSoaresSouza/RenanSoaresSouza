@@ -1,35 +1,66 @@
-# 👋 Olá, me chamo Renan !
-💻Técnico em Desenvolvimento de Sistemas  | 👨‍💻 Engenheiro da Computação em Formação | 👨‍🎓 Estudante
+# 👋 Olá, me chamo Renan!
 
-## Sobre Mim
-
-- 🎯 Objetivo: Me tornar um Engenheiro da Computação
-- 🔎 Curioso
-- 👨‍🎓 autodidata
-- 🗺 Brasil 
+💻 Técnico em Desenvolvimento de Sistemas | 👨‍💻 Engenharia da Computação em Formação | 👨‍🎓 Estudante
 
 ---
-## Conhecimentos em:      
-  - 💻 Programação
-  - 🖥 Arquitetura de Computadores
-  - 👨‍💻 Sistemas Embarcados
-  - 🔌 eletrônica (Digital e Analógica)
-  - 📕 Inglês Pré-Intermediário
-### Habilidades e Conhecimentos:
+
+## 🧑‍💻 Sobre Mim
+
+- 🎯 Objetivo: Tornar-me Engenheiro da Computação
+- 🔎 Curioso por tecnologia e engenharia
+- 📚 Autodidata
+- 🌎 Brasil
+
+---
+
+## 🚀 Áreas de Interesse
+
+- 💻 Programação
+- 🖥 Arquitetura de Computadores
+- 🔌 Sistemas Embarcados
+- ⚡ Eletrônica Digital e Analógica
+- 🧠 Hardware e Desenvolvimento de Baixo Nível
+- 📘 Inglês Pré-Intermediário
+
+---
+
+# 🛠️ Habilidades e Conhecimentos
+
+## 💻 Linguagens
 
 <p>
 
-<!-- Badges -->
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+</p>
+
+
+## 🔌 Sistemas Embarcados
+
+<p>
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
 
+</p>
+
+
+## ⚡ Hardware Digital
+
+<p>
+
 <img src="https://img.shields.io/badge/FPGA-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Verilog-B111C5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Digital%20Logic-2563EB?style=for-the-badge"/>
+
+</p>
+
+
+## 🛠️ Ferramentas e Ambiente
+
+<p>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -37,9 +68,12 @@
 
 </p>
 
-### Complementares:
-- bash
-- git
-- Linux
 ---
 
+## 📚 Conhecimentos Complementares
+
+- 🐧 Bash
+- 🐧 Linux
+- 🔧 GCC Compiler
+
+---
