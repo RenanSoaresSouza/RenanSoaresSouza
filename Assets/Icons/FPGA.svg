@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Chip body -->
+  <rect x="28" y="28" width="72" height="72" rx="8"
+        fill="#2D3748" stroke="#4FD1C5" stroke-width="3"/>
+
+  <!-- Inner border -->
+  <rect x="36" y="36" width="56" height="56" rx="4"
+        fill="#1A202C" stroke="#63E6BE" stroke-width="2"/>
+
+  <!-- Pins -->
+  <g stroke="#A0AEC0" stroke-width="3" stroke-linecap="round">
+    <!-- Left -->
+    <line x1="20" y1="40" x2="28" y2="40"/>
+    <line x1="20" y1="52" x2="28" y2="52"/>
+    <line x1="20" y1="64" x2="28" y2="64"/>
+    <line x1="20" y1="76" x2="28" y2="76"/>
+    <line x1="20" y1="88" x2="28" y2="88"/>
+
+    <!-- Right -->
+    <line x1="100" y1="40" x2="108" y2="40"/>
+    <line x1="100" y1="52" x2="108" y2="52"/>
+    <line x1="100" y1="64" x2="108" y2="64"/>
+    <line x1="100" y1="76" x2="108" y2="76"/>
+    <line x1="100" y1="88" x2="108" y2="88"/>
+
+    <!-- Top -->
+    <line x1="40" y1="20" x2="40" y2="28"/>
+    <line x1="52" y1="20" x2="52" y2="28"/>
+    <line x1="64" y1="20" x2="64" y2="28"/>
+    <line x1="76" y1="20" x2="76" y2="28"/>
+    <line x1="88" y1="20" x2="88" y2="28"/>
+
+    <!-- Bottom -->
+    <line x1="40" y1="100" x2="40" y2="108"/>
+    <line x1="52" y1="100" x2="52" y2="108"/>
+    <line x1="64" y1="100" x2="64" y2="108"/>
+    <line x1="76" y1="100" x2="76" y2="108"/>
+    <line x1="88" y1="100" x2="88" y2="108"/>
+  </g>
+
+  <!-- FPGA text -->
+  <text x="64"
+        y="69"
+        text-anchor="middle"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="700"
+        fill="#4FD1C5">
+    FPGA
+  </text>
+</svg>

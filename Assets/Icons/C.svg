@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="256"
+     height="256"
+     viewBox="0 0 256 256">
+
+  <!-- Fundo quadrado arredondado -->
+  <rect x="16"
+        y="16"
+        width="224"
+        height="224"
+        rx="48"
+        fill="#5C6BC0"/>
+
+
+  <!-- Borda interna -->
+  <rect x="24"
+        y="24"
+        width="208"
+        height="208"
+        rx="42"
+        fill="none"
+        stroke="#283593"
+        stroke-width="6"/>
+
+
+  <!-- C centralizado -->
+  <path
+    d="M160 84
+       C148 72 132 66 114 66
+       C80 66 58 91 58 128
+       C58 165 80 190 114 190
+       C132 190 148 184 160 172
+       L139 147
+       C133 153 124 157 114 157
+       C97 157 87 144 87 128
+       C87 112 97 99 114 99
+       C124 99 133 103 139 109
+       Z"
+    fill="white"/>
+
+
+  <!-- Sombra discreta -->
+  <path
+    d="M114 73
+       C89 73 65 94 65 128
+       C65 153 78 174 99 183
+       C82 170 75 151 75 128
+       C75 98 93 80 116 80
+       C126 80 136 83 144 88
+       C136 78 125 73 114 73Z"
+    fill="#DCEEFF"
+    opacity="0.18"/>
+
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="256"
+     height="256"
+     viewBox="0 0 256 256">
+
+  <!-- Fundo -->
+  <rect x="16"
+        y="16"
+        width="224"
+        height="224"
+        rx="48"
+        fill="#16A34A"/>
+
+
+  <!-- Borda interna -->
+  <rect x="24"
+        y="24"
+        width="208"
+        height="208"
+        rx="42"
+        fill="none"
+        stroke="#0F7A36"
+        stroke-width="6"/>
+
+
+  <!-- Corpo do microcontrolador -->
+  <rect x="72"
+        y="72"
+        width="112"
+        height="112"
+        rx="14"
+        fill="#111827"
+        stroke="white"
+        stroke-width="6"/>
+
+
+  <!-- Pinos do chip -->
+  <g stroke="white"
+     stroke-width="6"
+     stroke-linecap="round">
+
+    <!-- esquerda -->
+    <line x1="45" y1="100" x2="72" y2="100"/>
+    <line x1="45" y1="128" x2="72" y2="128"/>
+    <line x1="45" y1="156" x2="72" y2="156"/>
+
+    <!-- direita -->
+    <line x1="184" y1="100" x2="211" y2="100"/>
+    <line x1="184" y1="128" x2="211" y2="128"/>
+    <line x1="184" y1="156" x2="211" y2="156"/>
+
+    <!-- cima -->
+    <line x1="100" y1="45" x2="100" y2="72"/>
+    <line x1="128" y1="45" x2="128" y2="72"/>
+    <line x1="156" y1="45" x2="156" y2="72"/>
+
+    <!-- baixo -->
+    <line x1="100" y1="184" x2="100" y2="211"/>
+    <line x1="128" y1="184" x2="128" y2="211"/>
+    <line x1="156" y1="184" x2="156" y2="211"/>
+
+  </g>
+
+
+  <!-- Símbolo de código -->
+  <g fill="white">
+
+    <!-- < -->
+    <path d="M105 112 L90 128 L105 144 L111 138 L102 128 L111 118 Z"/>
+
+    <!-- > -->
+    <path d="M151 112 L166 128 L151 144 L145 138 L154 128 L145 118 Z"/>
+
+    <!-- _ -->
+    <rect x="114"
+          y="137"
+          width="28"
+          height="6"
+          rx="3"/>
+
+  </g>
+
+
+</svg>
